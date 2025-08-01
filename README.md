@@ -31,6 +31,3 @@
 | BEM | CSS methodology |
 
 
-cd JBL-CLone-SASS
-npm install
-npm run compile-sass
